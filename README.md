@@ -1,5 +1,7 @@
 ### ChatGPT (Chat Generative Pre-trained Transformer) command line prompt
 
+Obtain the pre-trained model (chat.gguf) file here: https://github.com/calcuis/chatgpt-ai-model/releases/tag/0.1
+
 Let's break down the Python code step by step:
 ```
 from llama_cpp import Llama
