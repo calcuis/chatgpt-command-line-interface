@@ -11,7 +11,7 @@ Let's break down the Python code step by step:
 ```
 from llama_cpp import Llama
 ```
-This line imports the Llama class from the llama_cpp module. It seems like this module provides a class named Llama that is being used in the code.
+This line imports the Llama class from the llama_cpp module.
 ```
 llm = Llama(model_path="chat.gguf")
 ```
